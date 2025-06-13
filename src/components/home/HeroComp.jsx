@@ -5,8 +5,8 @@ const HeroComp = () =>{
             <div className="hero-content">
                 <h1>IYMO</h1>
                 <h3>International Youth Math Olympiad</h3>
-                <p>Registration is now open for the International Youth Math Olympiad! <br />
-                Join this prestigious event and gain an unforgettable mathematical experience!</p>
+                {/* <p>Registration is now open for the International Youth Math Olympiad! <br />
+                Join this prestigious event and gain an unforgettable mathematical experience!</p> */}
                     <br />
                     <div className="hero-social-icon">   
                         <a href="https://www.facebook.com/profile.php?id=100063979907207" target='_blank'><i className="fab fa-facebook-f facebook-bg"></i></a>
@@ -17,7 +17,7 @@ const HeroComp = () =>{
                     </div>
                     <br />
                     <br />
-                    <a href="https://registration-iymo-2025.vercel.app/" className="btn">Registration</a>
+                    <a href="#" className="btn">Close Registration</a>
             </div>
             <div className="hero-img">
                 <img src="./assets/images/logo/IYMO.png" alt="" />
