@@ -68,14 +68,16 @@ const NavbarComp = () =>{
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Certificate Supervisor <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
-                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1KQUngMwESZoEIyHm3HqONBmx-vgbHiQs?usp=sharing" target='_blank'>Certificate Supervisor 2024 Batch 2 </a></li>
-                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1CxPTXJ2h2cpSTAaDCr5xPsfAS82DZvEE?usp=sharing" target='_blank'>Certificate Supervisor 2024 Batch 1 </a></li>
-                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1MDHEJDstaiCDjmLRhdTDLWwbC7oZdNDi" target='_blank'>Certificate Supervisor 2023</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/16h0q-dg-HwyRXFcQz59VQ_bf2mD4zBXg?usp=sharing" target='_blank'>Certificate Supervisor 2025</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1KQUngMwESZoEIyHm3HqONBmx-vgbHiQs?usp=sharing" target='_blank'>Certificate Supervisor 2024 Batch 2</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1CxPTXJ2h2cpSTAaDCr5xPsfAS82DZvEE?usp=sharing" target='_blank'>Certificate Supervisor 2024 Batch 1</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1MDHEJDstaiCDjmLRhdTDLWwbC7oZdNDi?usp=sharing" target='_blank'>Certificate Supervisor 2023</a></li>
                         </ul>
                     </li>
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Galery <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1g_FTKMi1CdUKKFrvOyhysCSKpPtPHCOY?usp=sharing" target='_blank'>2025</a></li>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/1JROGpOT_Ow7kHwwfcr7tOs8eR0RdgDW0?usp=sharing" target='_blank'>2024 Batch 2</a></li>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/185S8hjYznLup_CeedtzBeIR0mPWeVCCI?usp=sharing" target='_blank'>2024 Batch 1</a></li>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/1UxUIzFSUiNtJdV4bAiy9et9UDkpQv5ME?usp=sharing" target='_blank'>2023</a></li>
